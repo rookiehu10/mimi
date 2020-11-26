@@ -1,0 +1,46 @@
+body{
+    background-image: url("1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.8);
+    margin: 0px;
+}
+
+#datum{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+#ora{
+    text-align: center;
+    font-size: 180px;
+    margin-bottom: 0px;
+    margin-top: 200px;
+    margin-right: 150px;
+}
+
+#udv1{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 0px;
+    margin-right: 75px;
+}
+
+#udv2{
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 50px;
+}
+
+#footer{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
