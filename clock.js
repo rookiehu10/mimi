@@ -3,7 +3,7 @@ var hour = time.getHours();
 var min = time.getMinutes();
 var year = time.getFullYear();
 var month = time.getMonth();
-var day = time.getDay();
+var day = time.getDate();
 
 if (month == 0){
     month = "Jan";
