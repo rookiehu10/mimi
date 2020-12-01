@@ -39,7 +39,7 @@ if (month == 10){
     month = "Nov";
 }
 if (month == 11){
-    month = "Sep";
+    month = "Dec";
 }
 
 if(day < 10){
